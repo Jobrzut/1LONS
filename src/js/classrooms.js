@@ -1,5 +1,5 @@
 // Czytamy wszystkie pliki
-
+import "./scraper.js";
 import fs from "fs";
 import path from "path";
 
@@ -21,18 +21,18 @@ const allPlans = plans.flatMap((p) => p.plan);
 const classrooms = {};
 
 allPlans.forEach((lekcja) => {
-    const saleArray = Array.isArray(lekcja.sala) ? lekcja.sala : [lekcja.sala];
-  
-    saleArray.forEach((s) => {
-      if (!classrooms[s]) classrooms[s] = [];
-      classrooms[s].push({
-        dzien: lekcja.dzien,
-        godzina: lekcja.godzina,
-        klasa: lekcja.klasa
-      });
+  const saleArray = Array.isArray(lekcja.sala) ? lekcja.sala : [lekcja.sala];
+
+  saleArray.forEach((s) => {
+    if (!classrooms[s]) classrooms[s] = [];
+    classrooms[s].push({
+      dzien: lekcja.dzien,
+      godzina: lekcja.godzina,
+      klasa: lekcja.klasa,
     });
   });
-  
+});
 
-
-
+const outputFile = "classrooms.json";
+fs.writeFileSync(outputFile, JSON.stringify(classrooms, null, 2), "utf8");
+console.log(`Zapisano dane sal do pliku: ${outputFile}`);
