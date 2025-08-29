@@ -25,6 +25,7 @@ fetch("../plan-lekcji.json")
 // Wyświetlanie przycisku dla każdej sali
 
 function showAllClasses(plan) {
+  content.innerHTML = "";
   const classroomButtonsDiv = document.createElement("div");
   classroomButtonsDiv.className = "classroom_buttons";
   for (const key in plan) {
@@ -42,6 +43,15 @@ function showAllClasses(plan) {
 
 function displayClassroomTimeTable(classroom, plan) {
   content.innerHTML = "";
+
+  const goBackButton = document.createElement("button");
+  goBackButton.textContent = "Wróć";
+  goBackButton.addEventListener("click", () => {
+    showAllClasses(plan);
+  });
+
+  content.appendChild(goBackButton);
+
   const classroomsTimetable = plan[classroom];
   const lessonsByTime = {};
 
