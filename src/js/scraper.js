@@ -7,7 +7,7 @@ import { links } from "./links.js";
 
 const dni = ["Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek"];
 
-async function scrapePlan(url) {
+async function scrapePlan(name, url) {
   const res = await fetch(url);
   const html = await res.text();
   const $ = cheerio.load(html);
@@ -15,20 +15,32 @@ async function scrapePlan(url) {
   const plan = [];
 
   $("table.tabela tbody tr").each((i, row) => {
-    if (i === 0) return; // nagłówek
+    if (i === 0) return; // Pomijamy wiersz nagłówka
     const cells = $(row).find("td");
     const godzina = $(cells[1]).text().trim();
 
     dni.forEach((dzien, j) => {
-      const lekcja = $(cells[j + 2])
-        .text()
-        .trim();
-      if (lekcja && lekcja !== "&nbsp;") {
-        const lekcjeArray = lekcja
-          .split(/(?=[a-z]{1}\.|wf|e_|r_)/i)
-          .map((l) => l.trim())
-          .filter(Boolean);
-        plan.push({ dzien, godzina, lekcje: lekcjeArray });
+      const cell = $(cells[j + 2]);
+      const lekcjeArray = [];
+
+      const spans = cell.find("span.s");
+
+      if (spans.length > 0) {
+        spans.each((k, span) => {
+          const lekcja = $(span).text().trim();
+          if (lekcja) {
+            lekcjeArray.push(lekcja);
+          }
+        });
+      } else {
+        const lekcja = cell.text().trim();
+        if (lekcja && lekcja !== "&nbsp;") {
+          lekcjeArray.push(lekcja);
+        }
+      }
+
+      if (lekcjeArray.length > 0) {
+        plan.push({ dzien, godzina, sala: lekcjeArray, klasa: name });
       }
     });
   });
@@ -41,7 +53,7 @@ async function scrapePlan(url) {
 async function main() {
   for (const { name, href } of links) {
     console.log(`Scraping: ${name} - ${href}`);
-    const plan = await scrapePlan(href);
+    const plan = await scrapePlan(name, href);
 
     if (!fs.existsSync("./plany")) fs.mkdirSync("./plany");
 

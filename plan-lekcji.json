@@ -1,0 +1,6909 @@
+{
+  "11": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "15:00-15:45",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    }
+  ],
+  "12": [
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4c"
+    }
+  ],
+  "13": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    }
+  ],
+  "14": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4b"
+    }
+  ],
+  "21": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    }
+  ],
+  "22": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    }
+  ],
+  "23": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    }
+  ],
+  "24": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    }
+  ],
+  "25": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "15:00-15:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4f"
+    }
+  ],
+  "26": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4g"
+    }
+  ],
+  "27": [
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    }
+  ],
+  "28": [
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    }
+  ],
+  "12N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4c"
+    }
+  ],
+  "22N": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "03": [
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "15:00-15:45",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4d"
+    }
+  ],
+  "SG2": [
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "4h"
+    }
+  ],
+  "SG1": [
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "4h"
+    }
+  ],
+  "02N": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4g"
+    }
+  ],
+  "23N": [
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    }
+  ],
+  "13G": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    }
+  ],
+  "04G": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4h"
+    }
+  ],
+  "25N": [
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4b"
+    }
+  ],
+  "12G": [
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4h"
+    }
+  ],
+  "04": [
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "1a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    }
+  ],
+  "04N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4f"
+    }
+  ],
+  "24N": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    }
+  ],
+  "14N": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "15:00-15:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    }
+  ],
+  "02": [
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    }
+  ],
+  "11N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4h"
+    }
+  ],
+  "F1": [
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    }
+  ],
+  "SG3": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "14:10-14:55",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "SG4": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    }
+  ],
+  "SG5": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4e"
+    }
+  ],
+  "21N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "1c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "13:20-14:05",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "15:00-15:45",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4e"
+    }
+  ],
+  "13N": [
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "14:10-14:55",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    }
+  ],
+  "15N": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    }
+  ],
+  "00N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1d"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    }
+  ],
+  "03N": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "14:10-14:55",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "14:10-14:55",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "15:00-15:45",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "15:00-15:45",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:00- 8:45",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:00- 8:45",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "03G": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "2b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "SG6": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "1e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "3b"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "3i"
+    }
+  ],
+  "11G": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "1f"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "11:25-12:10",
+      "klasa": "1h"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "2c"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3d"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "02G": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "1g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3c"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "11:25-12:10",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3i"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "12:15-13:00",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    }
+  ],
+  "jż. gr 1": [
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "1g"
+    }
+  ],
+  "14G": [
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "2a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "10:35-11:20",
+      "klasa": "3g"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4c"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "4d"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "12:15-13:00",
+      "klasa": "4f"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "12:15-13:00",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4h"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4h"
+    }
+  ],
+  "01G": [
+    {
+      "dzien": "Piątek",
+      "godzina": "8:50- 9:35",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Piątek",
+      "godzina": "9:40-10:25",
+      "klasa": "2e"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "11:25-12:10",
+      "klasa": "2g"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "8:50- 9:35",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Czwartek",
+      "godzina": "9:40-10:25",
+      "klasa": "3a"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "12:15-13:00",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "13:20-14:05",
+      "klasa": "3e"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "10:35-11:20",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "11:25-12:10",
+      "klasa": "3f"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "11:25-12:10",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "8:50- 9:35",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Wtorek",
+      "godzina": "9:40-10:25",
+      "klasa": "4b"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "9:40-10:25",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    },
+    {
+      "dzien": "Środa",
+      "godzina": "10:35-11:20",
+      "klasa": "4g"
+    }
+  ],
+  "Czy": [
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "9:40-10:25",
+      "klasa": "4e"
+    },
+    {
+      "dzien": "Poniedziałek",
+      "godzina": "10:35-11:20",
+      "klasa": "4e"
+    }
+  ]
+}
