@@ -1,45 +1,57 @@
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
+import fs from "fs";
+import { links } from "./links.js";
 
-// Tworzymy liste linków które ma odwiedzić
+// Scrapujemy tabele z rozkładem lekcji dla każdej klasy
 
-const baseUrl = "https://www.dlugosz.edu.pl/plan/html3/plany";
-const links = [];
+const dni = ["Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek"];
 
-for (let i = 1; i < 32; i++) {
-  let className;
-  const startChar = "a".charCodeAt(0);
+async function scrapePlan(url) {
+  const res = await fetch(url);
+  const html = await res.text();
+  const $ = cheerio.load(html);
 
-  switch (true) {
-    case i >= 1 && i <= 8:
-      // Klasy 1A do 1H
-      className = `1${String.fromCharCode(startChar + i - 1)}`;
-      break;
-    case i >= 9 && i <= 11:
-      // Klasy 2A do 2C
-      className = `2${String.fromCharCode(startChar + i - 9)}`;
-      break;
-    case i >= 12 && i <= 14:
-      // Klasy 2E do 2G
-      className = `2${String.fromCharCode(startChar + i - 12 + 4)}`;
-      break;
-    case i >= 15 && i <= 23:
-      // Klasy 3A do 3I
-      className = `3${String.fromCharCode(startChar + i - 15)}`;
-      break;
-    case i >= 23 && i <= 31:
-      // Klasy 4A do 4H
-      className = `4${String.fromCharCode(startChar + i - 24)}`;
-      break;
-    default:
-      className = "Unknown";
-      break;
-  }
+  const plan = [];
 
-  links.push({
-    name: className,
-    href: `${baseUrl}/o${i}.html`,
+  $("table.tabela tbody tr").each((i, row) => {
+    if (i === 0) return; // nagłówek
+    const cells = $(row).find("td");
+    const godzina = $(cells[1]).text().trim();
+
+    dni.forEach((dzien, j) => {
+      const lekcja = $(cells[j + 2])
+        .text()
+        .trim();
+      if (lekcja && lekcja !== "&nbsp;") {
+        const lekcjeArray = lekcja
+          .split(/(?=[a-z]{1}\.|wf|e_|r_)/i)
+          .map((l) => l.trim())
+          .filter(Boolean);
+        plan.push({ dzien, godzina, lekcje: lekcjeArray });
+      }
+    });
   });
+
+  return plan;
 }
 
-console.log(links);
+// Zapisujemy plany jako JSON
+
+async function main() {
+  for (const { name, href } of links) {
+    console.log(`Scraping: ${name} - ${href}`);
+    const plan = await scrapePlan(href);
+
+    if (!fs.existsSync("./plany")) fs.mkdirSync("./plany");
+
+    fs.writeFileSync(
+      `./plany/${name}.json`,
+      JSON.stringify(plan, null, 2),
+      "utf8"
+    );
+    console.log(`Zapisano plik: plany/${name}.json`);
+  }
+}
+
+main();
