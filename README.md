@@ -53,7 +53,6 @@ To run the project locally, follow these steps:
   - **`index.html`**: The main HTML file for the app.
   - **`js/`**: JavaScript files for scraping, processing, and displaying data.
 - **`plan-lekcji.json`**: A sample JSON file containing timetable data.
-- **`plany/`**: Folder where scraped timetable data is stored.
 - **`style.css`**: Styles for the application.
 
 ## Usage
