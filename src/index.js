@@ -132,5 +132,8 @@ function displayClassroomTimeTable(classroom, plan) {
 
   table.appendChild(tableHead);
   table.appendChild(tableBody);
-  content.appendChild(table);
+  tableContainer = document.createElement("div");
+  tableContainer.className = "table-container";
+  tableContainer.appendChild(table);
+  content.appendChild(tableContainer);
 }
