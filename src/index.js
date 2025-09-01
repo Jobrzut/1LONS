@@ -24,17 +24,28 @@ fetch("../plan-lekcji.json")
 
 // Wyświetlanie przycisku dla każdej sali
 
+function addClassInfoText() {
+  const classInfo = document.createElement("p");
+  classInfo.textContent = "Wybierz interesującą Cię salę!";
+  content.appendChild(classInfo);
+}
+
+const excludedClassrooms = ["Czy", "jż. gr 1"];
+
 function showAllClasses(plan) {
   content.innerHTML = "";
+  addClassInfoText()
   const classroomButtonsDiv = document.createElement("div");
   classroomButtonsDiv.className = "classroom_buttons";
   for (const key in plan) {
-    const classroomButton = document.createElement("button");
-    classroomButton.textContent = key;
-    classroomButton.addEventListener("click", () => {
-      displayClassroomTimeTable(key, plan);
-    });
-    classroomButtonsDiv.appendChild(classroomButton);
+    if (!excludedClassrooms.includes(key)) {
+      const classroomButton = document.createElement("button");
+      classroomButton.textContent = key;
+      classroomButton.addEventListener("click", () => {
+        displayClassroomTimeTable(key, plan);
+      });
+      classroomButtonsDiv.appendChild(classroomButton);
+    }
   }
   content.appendChild(classroomButtonsDiv);
 }
@@ -46,6 +57,7 @@ function displayClassroomTimeTable(classroom, plan) {
 
   const goBackButton = document.createElement("button");
   goBackButton.textContent = "Wróć";
+  goBackButton.className = "goback";
   goBackButton.addEventListener("click", () => {
     showAllClasses(plan);
   });

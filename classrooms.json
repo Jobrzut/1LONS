@@ -516,6 +516,11 @@
     },
     {
       "dzien": "Wtorek",
+      "godzina": "14:10-14:55",
+      "klasa": "4a"
+    },
+    {
+      "dzien": "Wtorek",
       "godzina": "8:00- 8:45",
       "klasa": "4b"
     },
@@ -1068,11 +1073,6 @@
     {
       "dzien": "Piątek",
       "godzina": "9:40-10:25",
-      "klasa": "4a"
-    },
-    {
-      "dzien": "Piątek",
-      "godzina": "12:15-13:00",
       "klasa": "4a"
     },
     {
@@ -4306,6 +4306,11 @@
       "klasa": "3c"
     },
     {
+      "dzien": "Czwartek",
+      "godzina": "13:20-14:05",
+      "klasa": "3c"
+    },
+    {
       "dzien": "Poniedziałek",
       "godzina": "10:35-11:20",
       "klasa": "3e"
@@ -5593,11 +5598,6 @@
     },
     {
       "dzien": "Czwartek",
-      "godzina": "13:20-14:05",
-      "klasa": "3c"
-    },
-    {
-      "dzien": "Czwartek",
       "godzina": "14:10-14:55",
       "klasa": "3c"
     },
@@ -5625,11 +5625,6 @@
       "dzien": "Piątek",
       "godzina": "14:10-14:55",
       "klasa": "3d"
-    },
-    {
-      "dzien": "Czwartek",
-      "godzina": "8:00- 8:45",
-      "klasa": "3e"
     },
     {
       "dzien": "Wtorek",
@@ -6260,6 +6255,11 @@
       "klasa": "2a"
     },
     {
+      "dzien": "Czwartek",
+      "godzina": "8:00- 8:45",
+      "klasa": "3e"
+    },
+    {
       "dzien": "Wtorek",
       "godzina": "9:40-10:25",
       "klasa": "3e"
@@ -6716,13 +6716,6 @@
       "dzien": "Piątek",
       "godzina": "9:40-10:25",
       "klasa": "4g"
-    }
-  ],
-  "jż. gr 1": [
-    {
-      "dzien": "Czwartek",
-      "godzina": "13:20-14:05",
-      "klasa": "1g"
     }
   ],
   "14G": [
