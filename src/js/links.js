@@ -1,6 +1,6 @@
 // Tworzymy liste linków które ma odwiedzić
 
-const baseUrl = "https://www.dlugosz.edu.pl/plan/html3/plany";
+const baseUrl = "https://www.dlugosz.edu.pl/plan/plany";
 
 export const links = (() => {
   const startChar = "a".charCodeAt(0);
