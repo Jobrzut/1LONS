@@ -51,19 +51,32 @@ async function scrapePlan(name, url) {
 // Zapisujemy plany jako JSON
 
 async function main() {
+  const allPlans = [];
+  const classrooms = {};
+
   for (const { name, href } of links) {
     console.log(`Scraping: ${name} - ${href}`);
     const plan = await scrapePlan(name, href);
+    allPlans.push(...plan); 
+}
 
-    if (!fs.existsSync("./plany")) fs.mkdirSync("./plany");
+// Odwracanie JSON dla sal
+    allPlans.forEach((lekcja) => {
+      const saleArray = Array.isArray(lekcja.sala) ? lekcja.sala : [lekcja.sala];
 
-    fs.writeFileSync(
-      `./plany/${name}.json`,
-      JSON.stringify(plan, null, 2),
-      "utf8"
-    );
-    console.log(`Zapisano plik: plany/${name}.json`);
-  }
+      saleArray.forEach((s) => {
+          if (!classrooms[s]) classrooms[s] = [];
+          classrooms[s].push({
+              dzien: lekcja.dzien,
+              godzina: lekcja.godzina,
+              klasa: lekcja.klasa,
+          });
+      });
+  });
+
+  const outputFile = "classrooms.json";
+  fs.writeFileSync(outputFile, JSON.stringify(classrooms, null, 2), "utf8");
+  console.log(`Zapisano dane sal do pliku: ${outputFile}`);
 }
 
 main();
